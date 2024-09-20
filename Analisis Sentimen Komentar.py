@@ -3,7 +3,7 @@
 # Description: Program ini akan menganalisa sentimen (baik/buruk) suatu komentar terhadap produk yang telah dibeli oleh user.
 
 # https://github.com/samflew
-# https://instagram.com/samflew
+# https://instagram.com/sam.flew
 
 produk_yang_dibeli = input("Apa produk yang baru kamu beli? ")
 komentar_produk_yang_dibeli = input(f"Apa komentar mu tentang produk {produk_yang_dibeli} yang baru kamu beli ?")

@@ -3,7 +3,7 @@
 # Description: Program ini akan menilai berapa nilai rata-rata dari semua mata pelajaran user
 
 # https://github.com/samflew
-# https://instagram.com/samflew
+# https://instagram.com/sam.flew
 
 nilai_siswa = {}
 
